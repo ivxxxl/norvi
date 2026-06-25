@@ -1,4 +1,4 @@
-# Norvi
+# Norvi - VPN Client
 
 🇬🇧 **English**
 
